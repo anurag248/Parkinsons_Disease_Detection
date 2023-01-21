@@ -1,2 +1,2 @@
 # Parkinsons_Disease_Detection
-Using Support Vector Machine Model to predict
+A Machine Learning System that can detect Parkinson's Disease with Python. In this use case, Support Vector Machine model is used for prediction. 
